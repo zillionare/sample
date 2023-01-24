@@ -1,5 +1,6 @@
 # sample
 
+this is hotfix 534, should be conflict with hotfix 533
 
 <p align="center">
 <a href="https://pypi.python.org/pypi/sample">
