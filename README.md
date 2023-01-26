@@ -20,6 +20,14 @@
 
 Skeleton project created by Python Project Wizard (ppw)
 
+!!! Quote
+    how about a quote?
+    
+!!! Tip
+    and a tip?
+    
+!!! Warn
+    and a warning?
 
 * Free software: MIT
 * Documentation: <https://zillionare.github.io/sample/>
